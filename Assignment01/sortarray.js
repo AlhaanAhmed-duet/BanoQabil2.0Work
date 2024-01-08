@@ -12,7 +12,7 @@ for (var i = 0; i < array.length; i++) {
 }
     
 }
-console.log(array);
+console.log("Array in ascending order "  + array);
 //  Descending order
 for (var i = 0; i < array.length; i++) {
     for (var j = 0; j < array.length - i - 1; j++) {
@@ -26,4 +26,4 @@ for (var i = 0; i < array.length; i++) {
 }
     
 }
-console.log(array);
+console.log("Array in Descending order " + array); 
